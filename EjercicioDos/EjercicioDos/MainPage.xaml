@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:EjercicioDos"
+             BackgroundImage="background.jpg"
+             x:Class="EjercicioDos.MainPage">
+
+    <StackLayout
+        Padding="5"
+        >
+        <Label 
+           Text="Selecciona el resultado de la siguiente suma." 
+           HorizontalOptions="Center"
+           FontAttributes="Bold"
+           Margin="1,10,1,1"
+           FontSize="15"
+            />
+        <StackLayout
+            HorizontalOptions="Center"
+            Padding="5"
+          
+            >
+            <Label
+                x:Name="lblNumeroUno"
+                Text="0000"
+                FontAttributes="Bold"
+                FontSize="25"
+                />
+        </StackLayout>
+        <StackLayout
+            HorizontalOptions="Center"
+            Padding="5"
+            Orientation="Horizontal"
+            >
+            <Label
+                Text="+"
+                FontSize="25"
+                />
+            <Label
+                x:Name="lblNumeroDos"
+                Text="0000"
+                FontAttributes="Bold"
+                FontSize="25"
+                
+                />
+        </StackLayout>
+        <Entry
+            WidthRequest="10"
+            >
+            
+        </Entry>
+        <StackLayout
+            Orientation="Horizontal"
+            >
+
+            <Button 
+            x:Name="botonUno"
+            Clicked="BotonUno_Clicked"
+            Text="3000"
+            BackgroundColor="#0fa472" 
+            HorizontalOptions="FillAndExpand"
+            CornerRadius="20"
+            WidthRequest="20"
+            FontSize="13"
+            TextColor="White"/>
+            <Button
+            x:Name="botonDos"
+            Clicked="BotonDos_Clicked"
+            Text="4000"
+            BackgroundColor="#0fa472" 
+            HorizontalOptions="FillAndExpand"
+            CornerRadius="20"
+            WidthRequest="20"
+            FontSize="13"
+            TextColor="White"/>
+
+        </StackLayout>
+
+        <StackLayout
+            Orientation="Horizontal">
+
+            <Button 
+            x:Name="botonTres"
+            Clicked="BotonTres_Clicked"
+            Text="3000"
+            BackgroundColor="#0fa472" 
+            HorizontalOptions="FillAndExpand"
+            CornerRadius="20"
+            WidthRequest="20"
+            FontSize="13"
+            TextColor="White"/>
+            <Button
+            x:Name="botonCuatro"
+            Clicked="BotonCuatro_Clicked"    
+            Text="4000"
+            BackgroundColor="#0fa472" 
+            HorizontalOptions="FillAndExpand"
+            CornerRadius="20"
+            WidthRequest="20"
+            FontSize="13"
+            TextColor="White"/>
+        </StackLayout>
+    </StackLayout>
+
+
+
+</ContentPage>

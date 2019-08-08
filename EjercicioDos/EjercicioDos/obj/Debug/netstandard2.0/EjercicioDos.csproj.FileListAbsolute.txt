@@ -1,0 +1,12 @@
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\bin\Debug\netstandard2.0\EjercicioDos.deps.json
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\bin\Debug\netstandard2.0\EjercicioDos.dll
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\bin\Debug\netstandard2.0\EjercicioDos.pdb
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\obj\Debug\netstandard2.0\EjercicioDos.csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\obj\Debug\netstandard2.0\EjercicioDos.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\obj\Debug\netstandard2.0\EjercicioDos.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\obj\Debug\netstandard2.0\EjercicioDos.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\obj\Debug\netstandard2.0\EjercicioDos.dll
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\obj\Debug\netstandard2.0\EjercicioDos.pdb
+C:\Users\Victoria\source\repos\EjercicioDos\EjercicioDos\EjercicioDos\obj\Debug\netstandard2.0\XamlC.stamp
